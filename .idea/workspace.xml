@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0cfc32a2-e567-4e90-b825-111129d45d76" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ProjectId" id="1XxV7UzbPG3Iinzs6YGKLFzR2Vc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mariadb" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0cfc32a2-e567-4e90-b825-111129d45d76" name="Default Changelist" comment="" />
+      <created>1581987566174</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581987566174</updated>
+      <workItem from="1581987569740" duration="25341000" />
+      <workItem from="1582036518124" duration="2969000" />
+      <workItem from="1582039508904" duration="264000" />
+      <workItem from="1582039912383" duration="918000" />
+      <workItem from="1582073875507" duration="17518000" />
+      <workItem from="1582095479017" duration="8453000" />
+      <workItem from="1582160620695" duration="14025000" />
+      <workItem from="1582196905413" duration="18000" />
+      <workItem from="1582264944805" duration="2423000" />
+      <workItem from="1582506195242" duration="2364000" />
+      <workItem from="1582607971825" duration="5102000" />
+      <workItem from="1582679053534" duration="628000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="302" y="58" width="800" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582087200057">
+      <screen x="49" y="27" width="1317" height="741" />
+    </state>
+    <state x="302" y="58" width="800" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog/49.27.1317.741@49.27.1317.741" timestamp="1582087200057" />
+    <state width="247" height="195" key="DatabaseViewActions_Filter" timestamp="1582087033567">
+      <screen x="49" y="27" width="1317" height="741" />
+    </state>
+    <state width="247" height="195" key="DatabaseViewActions_Filter/49.27.1317.741@49.27.1317.741" timestamp="1582087033567" />
+    <state x="196" y="31" key="SettingsEditor" timestamp="1582000217732">
+      <screen x="49" y="27" width="1317" height="741" />
+    </state>
+    <state x="196" y="31" key="SettingsEditor/49.27.1317.741@49.27.1317.741" timestamp="1582000217732" />
+    <state x="370" y="89" key="search.everywhere.popup" timestamp="1582181527265">
+      <screen x="49" y="27" width="1317" height="741" />
+    </state>
+    <state x="370" y="89" key="search.everywhere.popup/49.27.1317.741@49.27.1317.741" timestamp="1582181527265" />
+  </component>
+</project>
